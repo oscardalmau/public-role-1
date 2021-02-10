@@ -1,4 +1,4 @@
 ---
 # tasks file for public-role-1/
 - debug:
-    msg: This is a public role
+    msg: Hello world from public role
